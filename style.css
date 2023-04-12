@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+h1
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#n1
+{
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+#sum-button
+{
+    margin-bottom: 20px;
+}
+#id-result
+{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
